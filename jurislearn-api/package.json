@@ -1,7 +1,6 @@
 {
   "name": "jurislearn-api",
   "version": "1.0.0",
-  "description": "API paiement JurisLearn — Proxy GeniusPay",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
